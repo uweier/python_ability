@@ -1,4 +1,4 @@
-# python_ability
+# python能力策展
 
 ### :pencil2:自我介绍
 - 我是黄煜惠
@@ -16,5 +16,5 @@
 - 有基本python能力
 - 必要时敢于向他人求助
 
-### 联系方式
+### :iphone:联系方式
 wx：HUANGYUHUIYUHUI
